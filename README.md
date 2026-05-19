@@ -1,3 +1,24 @@
+# 📌 What I Did
+
+* **Data Visualization with Matplotlib:** Developed customized visualization functions to analyze complex data structures.
+* **Advanced Chart Types:** Implemented various data representations including Line Charts, Bar Charts, and Stacked Bar Charts to compare multidimensional datasets.
+* **Statistical Distribution Analysis:** Utilized Boxplots to observe data variance, medians, and quartiles across different categories.
+* **Quality Assurance:** Maintained a robust testing workflow with Pytest, achieving 100% test success across all data visualization modules.
+
+# 🛠️ Technologies
+
+* Python
+* Matplotlib
+* pytest
+
+# ✅ Results
+
+* All tests passed successfully. (8/8 tests passed)
+
+
+
+
+
 # Data Science Python Project 14
 
 ### Proje Kurulumu
